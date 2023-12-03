@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class App {
+public class Crearfichero {
     public static void main(String[] args) {
         try{
             String nombre1 = "miarchivo"; //Especificamos el nombre del fichero
